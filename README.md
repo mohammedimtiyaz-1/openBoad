@@ -1,6 +1,6 @@
-# Project Name
+# Open sketch drawing -  with simultaneous connectons
 
-Description of your project.
+
 
 ## Getting Started
 
@@ -17,7 +17,8 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/mohammedimtiyaz-1/openBoad.git
+   
 2. npm i
 3. npm run start
 4. navigate to http://localhost:5000
