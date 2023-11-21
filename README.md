@@ -1,6 +1,6 @@
-# Open sketch drawing -  with simultaneous connectons
+# Open sketch drawing - with simultaneous connectons
 
-
+Deployed on https://open-board-delta.vercel.app/
 
 ## Getting Started
 
@@ -18,7 +18,9 @@ To get a local copy up and running, follow these steps:
 
    ```bash
    git clone https://github.com/mohammedimtiyaz-1/openBoad.git
-   
+
+   ```
+
 2. npm i
 3. npm run start
 4. navigate to http://localhost:5000
